@@ -43,7 +43,7 @@ export default {
   data () {
     return {
       newTodo: '',
-      idForTodo: 3,
+      idForTodo: 3
     }
   },
   computed: {
